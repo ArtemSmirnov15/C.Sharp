@@ -1,0 +1,15 @@
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.csproj.AssemblyReference.cache
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.AssemblyInfoInputs.cache
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.AssemblyInfo.cs
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.csproj.CoreCompileInputs.cache
+C:\Users\New\Desktop\git-course\dz_lesson4\bin\Debug\net6.0\dz_lesson4.exe
+C:\Users\New\Desktop\git-course\dz_lesson4\bin\Debug\net6.0\dz_lesson4.deps.json
+C:\Users\New\Desktop\git-course\dz_lesson4\bin\Debug\net6.0\dz_lesson4.runtimeconfig.json
+C:\Users\New\Desktop\git-course\dz_lesson4\bin\Debug\net6.0\dz_lesson4.dll
+C:\Users\New\Desktop\git-course\dz_lesson4\bin\Debug\net6.0\dz_lesson4.pdb
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.dll
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\refint\dz_lesson4.dll
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.pdb
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\dz_lesson4.genruntimeconfig.cache
+C:\Users\New\Desktop\git-course\dz_lesson4\obj\Debug\net6.0\ref\dz_lesson4.dll
