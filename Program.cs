@@ -22,3 +22,14 @@
 // };
 // Console.Write($"Сумма цифр в числе {String.Join("",array)} будет {sum}");
 
+// Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран. (можно указать любой промежуток)
+// 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
+// 6, 1, 33 -> [6, 1, 33]
+
+Console.Write("Введите числа через запятую без пробелов: ");
+string[] array = Console.ReadLine()!.Split(",").ToArray();
+for (int i=0; i<array.Length;i++){
+    if (i==0) Console.Write($"[{array[i]}, ");
+    else if (i==array.Length-1) Console.Write($"{array[i]}]"); 
+    else Console.Write($"{array[i]}, ");
+};
