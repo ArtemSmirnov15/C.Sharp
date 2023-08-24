@@ -3,24 +3,24 @@
 // [345, 897, 568, 234] -> 2
 
 // функция создания рандомного массива
-int[] GenerateRandomArray (int min_value, int max_value, int lenght_array){
-    int[] array = new int[lenght_array];
-    for (int i=0; i<lenght_array; i++){
-        array[i] = new Random().Next(min_value, max_value + 1);
-    }
-    return array;
-}
+// int[] GenerateRandomArray (int min_value, int max_value, int lenght_array){
+//     int[] array = new int[lenght_array];
+//     for (int i=0; i<lenght_array; i++){
+//         array[i] = new Random().Next(min_value, max_value + 1);
+//     }
+//     return array;
+// }
 
 // функция перевода массива в строку
-string ArrayToSrting (int[] array){
-    string result = "";
-    for (int i=0; i<array.Length;i++){
-        if (i==0) result += $"[{array[i]}, ";
-        else if (i==array.Length-1) result += $"{array[i]}]"; 
-        else result += $"{array[i]}, ";
-    }
-    return result;
-}
+// string ArrayToSrting (int[] array){
+//     string result = "";
+//     for (int i=0; i<array.Length;i++){
+//         if (i==0) result += $"[{array[i]}, ";
+//         else if (i==array.Length-1) result += $"{array[i]}]"; 
+//         else result += $"{array[i]}, ";
+//     }
+//     return result;
+// }
 
 // int[] RandomArray = GenerateRandomArray(100,999,new Random().Next(2,10));
 // int cnt=0;
@@ -29,7 +29,8 @@ string ArrayToSrting (int[] array){
 // }
 // System.Console.Write($"В {ArrayToSrting(RandomArray)} количество нечетных чисел {cnt}");
 
-// Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных индексах.
+// Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих 
+// на нечётных индексах.
 // [3, 7, 23, 12] -> 19
 // [-4, -6, 89, 6] -> 0
 
