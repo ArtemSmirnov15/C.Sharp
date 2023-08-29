@@ -17,7 +17,7 @@ double[,] GetArray(int m, int n){
     double[,] res = new double[m,n];
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-            res[i,j] = new Random().NextDouble();
+            res[i,j] = (new Random().NextDouble() - 0.5)*20;
             }
         }
     return res;
