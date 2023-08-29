@@ -33,47 +33,6 @@ void PrintArray(double[,] array){
 }
 
 
-// **Задача 48:** Задайте двумерный массив размера m на n, каждый элемент 
-// в массиве находится по формуле: A(I,j) = i+j. Выведите полученный 
-// массив на экран.
-// m = 3, n = 4.
-// 0 1 2 3
-// 1 2 3 4
-// 2 3 4 5
-
-// Console.WriteLine("Введите количкство строк ");
-// int rows = int.Parse(Console.ReadLine())!;
-// Console.WriteLine("Введите количкство строк ");
-// int columns = int.Parse(Console.ReadLine())!;
-
-
-// int [,] array = GetArray(rows,columns);
-// PrintArray(array);
-
-// // метод создания массива
-// int[,] GetArray (int rows, int columns){
-//     int[,] result = new int[rows, columns];
-//     for (int i=0; i<rows; i++){
-//         for (int j=0; j<columns; j++){
-//             result[i,j] = i+j;
-//         }
-
-//     }
-//     return result;
-// }
-// // Вывод массива
-// void PrintArray (int [,] array){
-//     for (int i=0; i<array.GetLength(0); i ++){
-//         for (int j=0; j<array.GetLength(1); j++){
-//             Console.Write($"{array[i,j]} ");
-//         }
-//         Console.WriteLine();
-
-//     }
-    
-// }
-
-
 // Задача 50. Напишите программу, которая на вход принимает позиции элемента в двумерном массиве,
 // и возвращает значение этого элемента или же указание, что такого элемента нет.
 // Например, задан массив:
