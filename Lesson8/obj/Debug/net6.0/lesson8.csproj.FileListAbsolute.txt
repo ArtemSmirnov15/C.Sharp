@@ -1,0 +1,15 @@
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\bin\Debug\net6.0\lesson8.exe
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\bin\Debug\net6.0\lesson8.deps.json
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\bin\Debug\net6.0\lesson8.runtimeconfig.json
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\bin\Debug\net6.0\lesson8.dll
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\bin\Debug\net6.0\lesson8.pdb
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.csproj.AssemblyReference.cache
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.AssemblyInfoInputs.cache
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.AssemblyInfo.cs
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.csproj.CoreCompileInputs.cache
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.dll
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\refint\lesson8.dll
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.pdb
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\lesson8.genruntimeconfig.cache
+C:\Users\New\Documents\GitHub\C.Sharp\lesson8\obj\Debug\net6.0\ref\lesson8.dll
