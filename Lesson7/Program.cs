@@ -96,123 +96,7 @@ void PrintArray(double[,] array){
 // }    
  
  
-// // Задача 52. Задайте двумерный массив из целых чисел. 
-// // Найдите среднее арифметическое элементов в каждом столбце.
-// // Например, задан массив:
-// // 1 4 7 2
-// // 5 9 2 3
-// // 8 4 2 4
-// // Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
 
-// Console.Write("Введите количество строк: ");
-// int rows = int.Parse(Console.ReadLine())!;
-// Console.Write("Введите количество столбцов: ");
-// int columns = int.Parse(Console.ReadLine())!;
-// int [,] array = GetArray(rows,columns, -2, 10);
-// PrintArray(array);
-// Console.WriteLine();
-// Console.Write("Введите строку: ");
-// int Rows_Array = int.Parse(Console.ReadLine())!;
-// Console.Write("Введите столбец: ");
-// int Columns_Array = int.Parse(Console.ReadLine())!;
-// Array_Element(array);
-
-// // метод создания массива
-// int[,] GetArray (int rows, int columns, int minValue, int maxValue){
-//     int[,] result = new int[rows, columns];
-//     for (int i=0; i<rows; i++){
-//         for (int j=0; j<columns; j++){
-//             result[i,j] = new Random().Next(minValue , maxValue);
-//         }
-//     }
-//     return result;
-// }
-// // Вывод массива
-// void PrintArray (int [,] array){
-//     for (int i=0; i<array.GetLength(0); i ++){
-//         for (int j=0; j<array.GetLength(1); j++){
-//             Console.Write($"{array[i,j]} ");
-//         }
-//         Console.WriteLine();
-//     }
-    
-// }
-// // находжение элемента массива
-// void Array_Element (int [,] array){
-//     int sum = 0;
-//     int ind1 = 0;
-//     for (int i = 0; i < array.GetLength(0); i++){
-//         for (int j = 0; j < array.GetLength(1); j++){
-//             if 
-//         }
-//     } 
-//     if (ind1 != false) {
-//         Console.WriteLine($"Элемент мaссива i={Rows_Array}, j={Columns_Array} будет {ind2}");
-//     }
-//     else Console.WriteLine("Такого элемента не существует");
-// }   
-
-// Задача 52. Задайте двумерный массив из целых чисел. 
-// Найдите среднее арифметическое элементов в каждом столбце.
-// Например, задан массив:
-// 1 4 7 2
-// 5 9 2 3
-// 8 4 2 4
-// Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
-
-// Console.Write("Введите количество строк: ");
-// int rows = int.Parse(Console.ReadLine())!;
-// Console.Write("Введите количество столбцов: ");
-// int columns = int.Parse(Console.ReadLine())!;
-// int [,] array = GetArray(rows,columns, -2, 10);
-// PrintArray(array);
-// Console.WriteLine();
-// Console.Write("Введите строку: ");
-// int Rows_Array = int.Parse(Console.ReadLine())!;
-// Console.Write("Введите столбец: ");
-// int Columns_Array = int.Parse(Console.ReadLine())!;
-// Array_Element(array);
-
-// метод создания массива
-// int[,] GetArray (int rows, int columns, int minValue, int maxValue){
-//     int[,] result = new int[rows, columns];
-//     for (int i=0; i<rows; i++){
-//         for (int j=0; j<columns; j++){
-//             result[i,j] = new Random().Next(minValue , maxValue);
-//         }
-
-//     }
-//     return result;
-// }
-// Вывод массива
-// void PrintArray (int [,] array){
-//     for (int i=0; i<array.GetLength(0); i ++){
-//         for (int j=0; j<array.GetLength(1); j++){
-//             Console.Write($"{array[i,j]} ");
-//         }
-//         Console.WriteLine();
-
-//     }
-    
-// }
-// // находжение элемента массива
-// void Array_Element (int [,] array){
-//     bool ind1 = false;
-//     int ind2 = 0;
-//     for (int i = 0; i < array.GetLength(0); i++){
-//         for (int j = 0; j < array.GetLength(1); j++){
-//             if (i == Rows_Array & j == Columns_Array) {
-//                 ind2 = array[i,j];
-//                 ind1 = true;
-//                             }
-//         }
-//     } 
-//     if (ind1 != false) {
-//         Console.WriteLine($"Элемент масcива i={Rows_Array}, j={Columns_Array} будет {ind2}");
-//     }
-//     else Console.WriteLine("Такого элемента не существует");
-// }    
- 
  
 // Задача 52. Задайте двумерный массив из целых чисел. 
 // Найдите среднее арифметическое элементов в каждом столбце.
@@ -268,4 +152,5 @@ void PrintArray(double[,] array){
 //     ind1 = 0;    
 //     } 
 // }
+    
     
