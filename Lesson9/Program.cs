@@ -39,7 +39,7 @@ Console.Write("Введите число M: ");
 int m = int.Parse(Console.ReadLine()!);
 Console.Write("Введите число N: ");
 int n = int.Parse(Console.ReadLine()!);
-Console.Write(Akkerman(m, n)); 
+Console.Write($"A({m},{n}) будет равно = {Akkerman(m, n)}"); 
 
 // функция Аккермана
 int Akkerman(int m, int n)
