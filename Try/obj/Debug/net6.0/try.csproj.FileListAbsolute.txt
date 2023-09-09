@@ -1,0 +1,15 @@
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.csproj.AssemblyReference.cache
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.AssemblyInfoInputs.cache
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.AssemblyInfo.cs
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.csproj.CoreCompileInputs.cache
+C:\Users\New\Documents\GitHub\C.Sharp\try\bin\Debug\net6.0\try.exe
+C:\Users\New\Documents\GitHub\C.Sharp\try\bin\Debug\net6.0\try.deps.json
+C:\Users\New\Documents\GitHub\C.Sharp\try\bin\Debug\net6.0\try.runtimeconfig.json
+C:\Users\New\Documents\GitHub\C.Sharp\try\bin\Debug\net6.0\try.dll
+C:\Users\New\Documents\GitHub\C.Sharp\try\bin\Debug\net6.0\try.pdb
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.dll
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\refint\try.dll
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.pdb
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\try.genruntimeconfig.cache
+C:\Users\New\Documents\GitHub\C.Sharp\try\obj\Debug\net6.0\ref\try.dll
